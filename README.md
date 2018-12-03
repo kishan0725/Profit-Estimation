@@ -1,7 +1,7 @@
 # Profit-Estimation
 Predicting profit of 1000 companies
 
-Predicting profit of 1000 companies based on the attributes mentioned belew
+Predicting profit of 1000 companies based on the attributes mentioned below
 
 1. R&D Spend
 2. Administration
